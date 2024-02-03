@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "NWTBodoniBold";
+  src: url("../fonts/NWTBodoni-Bold.ttf") format("truetype");
+  font-style: Bold;
+  font-weight: Bold;
+}
+
+@font-face {
+  font-family: "NWTBodoniItalic";
+  src: url("../fonts/NWTBodoni-Italic.ttf") format("truetype");
+  font-style: Normal;
+  font-weight: Normal;
+}
+
+@font-face {
+  font-family: "NWTBodoni";
+  src: url("../fonts/NWTBodoni.ttf") format("truetype");
+  font-style: Normal;
+  font-weight: Normal;
+}
